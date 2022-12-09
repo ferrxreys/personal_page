@@ -2,7 +2,7 @@
 
 body {
   font-family: "Roboto Mono", monospace;
-  background-image: url("image/bg-image.png"),
+  background-image: url("image/bg-image.PNG"),
     linear-gradient(#2d2f3f 10%, #262a38 10%, #13131c 80%);
   background-size: contain;
   background-blend-mode: multiply;
